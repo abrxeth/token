@@ -2,7 +2,7 @@
 
 
 
-This is a simple tutorial to show how to add a simple, fixed token supply ERC20 token (Eth token)
+This is a simple tutorial to show how to add a simple, fixed supply ERC20 token (Eth token)
 
 Please read carefully.
 
