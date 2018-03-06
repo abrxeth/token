@@ -4,8 +4,13 @@
 
 This is a simple tutorial. 
 
+Please read carefully.
 
-# Step 1
+
+-----
+
+
+# 1. Your ETH address
 
 **Send my your ETH address from either myetherwallet or the Metamask App (important you use either of these).** 
 
@@ -14,7 +19,7 @@ The address you give to me, will be the address I send the tokens to. Remember t
 
 ------
 
-# Adding Token to myetherwallet
+# 1.1 Adding Token to myetherwallet
 
 To add your token to your Eth wallet, it is recommended that you use [MyEtherWallet](https://myetherwallet.com). If you have not created a wallet there simply sign up, and back-up your wallet.
 
@@ -52,7 +57,7 @@ On the right-hand side, you will see:
 
 -----
 
-# Adding a Token with the Metamask App.
+# 1.2 Adding a Token with the Metamask App.
 
 > Click: Add Token
 >
@@ -77,7 +82,7 @@ On the right-hand side, you will see:
 
 ------
 
-# Note Well on Gas
+# 1.3 Note Well on Gas
 
 
 
