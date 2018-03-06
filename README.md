@@ -6,6 +6,15 @@ This is a simple tutorial.
 
 Please read carefully.
 
+------
+
+
+
+![BANK](http://0-3.info/logo.png)
+
+
+
+
 
 -----
 
