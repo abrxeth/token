@@ -9,6 +9,9 @@ Please read carefully.
 
 -----
 
+**CONTENTS**
+
+
 <p><div class="toc">
 
 
@@ -70,6 +73,13 @@ On the right-hand side, you will see:
 
 # 1.2 Adding Token to the Metamask App.
 
+Metamask is a simple Google Chrome App, which is available [here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+
+Firstly, back up your wallet (Metamask uses seed words, which you will find in "Settings"
+
+
+To start, on the right, you will see "Add Token". Click it.
+
 > Click: Add Token
 >
 >Three text boxes will appear. Usually with Metamask, once you paste the Contract Address in, it will automatically fill in the next two boxes. This is the information you need anyway:
@@ -88,7 +98,7 @@ On the right-hand side, you will see:
 >
 > Then press "Add"
 >
-> > The token is now added to your Metamask App (wallet)
+>  The token is now added to your Metamask App (wallet)
 
 
 ------
@@ -97,7 +107,7 @@ On the right-hand side, you will see:
 
 
 
-> Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.
+> Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an ERC20 transaction.
 >
 > To send ERC20 tokens you must sign a transaction, which uses some itself gas. Gas is sold at a cost per unit price.
 >
