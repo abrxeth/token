@@ -78,7 +78,8 @@ Metamask is a simple Google Chrome App, which is available [here](https://chrome
 Firstly, back up your wallet (Metamask uses seed words, which you will find in "Settings"
 
 
-To start, on the right, you will see "Add Token". Click it.
+To start, on the right, you will see "Add Token"
+
 
 > Click: Add Token
 >
