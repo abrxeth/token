@@ -9,8 +9,19 @@ Please read carefully.
 
 -----
 
+<p><div class="toc">
 
-# 1. Your ETH address
+
+<a href="#10-your-eth-address">1.0 Your ETH address</a><br>
+<a href="#11-adding-token-to-myetherwallet">1.1 Adding Token to myetherwallet</a><br>
+<a href="#12-adding-token-to-the-metamask-app.">1.2 Adding Token to the Metamask App.
+</a><br>
+<a href="#13-note-well-on-gas">1.3 Note Well on Gas</a>
+
+-----
+
+
+# 1.0 Your ETH address
 
 **Send my your ETH address from either myetherwallet or the Metamask App (important you use either of these).** 
 
@@ -57,7 +68,7 @@ On the right-hand side, you will see:
 
 -----
 
-# 1.2 Adding a Token with the Metamask App.
+# 1.2 Adding Token to the Metamask App.
 
 > Click: Add Token
 >
