@@ -5,7 +5,9 @@
 This is a simple tutorial. 
 
 
-# Step 1, Send my your ETH address from either myetherwallet or the Metamask App (important you use either of these). 
+# Step 1
+
+**Send my your ETH address from either myetherwallet or the Metamask App (important you use either of these).** 
 
 The address you give to me, will be the address I send the tokens to. Remember to keep some ETH in the wallet, as you neeed this to send a token (the transaction fee is paid in ETH).
 
