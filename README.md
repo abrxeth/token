@@ -1,4 +1,4 @@
-# Adding an ERC20 token to metamask or myetherwallettoken
+# Adding an ERC20 token to metamask or myetherwallet
 
 
 
